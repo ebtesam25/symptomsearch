@@ -1,0 +1,12 @@
+{
+  "name": "symptom",
+  "displayName": "symptom",
+  "expo": {
+    "name": "symptom",
+    "slug": "symptom",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
